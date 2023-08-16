@@ -61,6 +61,12 @@ nav span {
     border-radius: 100%;
 }
 
+.fa-heart{
+    position: relative;
+    bottom: 275px;
+    right: 100px;
+}
+
 section h1 {
     text-align: center;
 }
